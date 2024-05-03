@@ -13,6 +13,7 @@
 
 🚀 Actively seeking opportunities to collaborate on projects where I can contribute to meaningful data-driven solutions and further develop my skills.
 
-📫 Let's connect! Feel free to reach out to me on https://www.linkedin.com/in/sivadhanalakshmi-ranimekala-167088222 or via email at sivadhanalakshmi15@gmail.com.
+📫 Let's connect! Feel free to reach out to me on www.linkedin.com/in/sivadhanalakshmiranimekala
+or via email at sivadhanalakshmi15@gmail.com.
 
 #DataAnalysis #ArtificialIntelligence #Python #DataVisualization #RecentGraduate #CS #GitHub
