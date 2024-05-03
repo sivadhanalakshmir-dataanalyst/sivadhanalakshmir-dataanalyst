@@ -2,7 +2,7 @@
 
 🎓 Graduated with a Bachelor's degree in Computer Science from Jawaharlal Nehru Technological University Kakinada with a focus on programming and database languages. Excited to apply my knowledge and skills in real-world projects!
 
-💻 Aspiring Data Analyst | 📊 Data Enthusiast | 🤖 Artificial Intelligence Enthusiast
+💻 Aspiring Data Analyst | 📊 Data Wizard | 🤖 Artificial Intelligence Enthusiast
 
 🔍 Currently exploring the world of data analytics and visualization, eager to dive deeper into data-driven insights and solutions.
 
